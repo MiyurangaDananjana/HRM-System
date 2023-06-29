@@ -16,13 +16,13 @@ Web-based interface accessible to employees for accessing personal information, 
 Employee self-service features, including updating personal details, managing leave requests, and viewing leave balances.
 Notifications and reminders related to leave requests, approvals, and upcoming events.
 Real-time visibility of attendance records, allowing employees to monitor their attendance history.
-RFID Integration:
+### RFID Integration:
 
 Integration of an Arduino Uno RFID reader into the system to enable card reading functionality.
 Employees can use RFID cards to log attendance, clock in and out, and access certain areas or resources within the organization.
 RFID card data is captured by the Arduino Uno reader and transmitted to the HRM system for processing and recording attendance information.
 ### Technologies Used
-> .NET Framework for the desktop application
-> ASP.NET MVC or ASP.NET Core MVC for the web application
-> Entity Framework for database access and management
-> Arduino Uno with RFID reader for card reading functionality
+- .NET Framework for the desktop application.
+- ASP.NET MVC or ASP.NET Core MVC for the web application.
+- Entity Framework for database access and management.
+- Arduino Uno with RFID reader for card reading functionality.
